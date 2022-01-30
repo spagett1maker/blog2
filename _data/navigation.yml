@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "블로그 방문하기"
     url: https://spagett1maker.github.io/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
